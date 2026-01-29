@@ -22,7 +22,7 @@ export const metadata = {
   metadataBase: new URL("https://neomatrics.com"),
 
   title: {
-    default: "Neo Matrics — Dream. Design. Disrupt.",
+    default: "Neo Matrics — Digital Marketing | Web Development | Graphic Designing.",
     template: "%s | Neo Matrics"
   },
 
@@ -31,16 +31,20 @@ export const metadata = {
 
   keywords: [
     "digital marketing agency",
+    "digital marketing agency in banglore",
+    "digital marketing services",
     "website development",
-    "ui ux design",
+    "website development services",
+    "ui/ux design",
     "branding",
+    "seo",
     "neo matrics",
   ],
 
   openGraph: {
     type: "website",
     url: "https://neomatrics.com",
-    title: "Neo Matrics — Dream. Design. Disrupt.",
+    title: "Neo Matrics — Digital Marketing | Web Development | Graphic Designing.",
     description:"Premium digital agency for branding, UI/UX, websites, and marketing.",
     siteName: "Neo Matrics",
     images: [
